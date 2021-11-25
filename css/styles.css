@@ -1,0 +1,57 @@
+body {
+  background-color: white;
+  text-align: justify;
+}
+
+hr {
+  background-color: black;
+  border-style: none;
+  height: 2px;
+  margin: 0;
+}
+
+table {
+  table-layout: fixed;
+  width: 100%;
+  vertical-align: top;
+}
+
+thead td:nth-child(1) {
+  text-align: left;
+  vertical-align: top;
+}
+
+thead td:nth-child(2) {
+  text-align: right;
+  vertical-align: top;
+}
+
+tbody td:nth-child(1) {
+  text-align: left;
+  vertical-align: top;
+}
+
+tbody td:nth-child(2) {
+  text-align: right;
+  vertical-align: top;
+}
+
+h1 {
+  margin: 0;
+}
+
+h2 {
+  margin: 0;
+}
+
+h3 {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+}
+
+br {
+  margin: 0;
+}
